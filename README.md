@@ -100,11 +100,6 @@ npm install
 **3️⃣ Configure Environment**
 Create a `.env` file in the root directory and add your Supabase keys:
 
-```env
-VITE_SUPABASE_URL=your_project_url
-VITE_SUPABASE_ANON_KEY=your_anon_key
-
-```
 
 **4️⃣ Run the Development Server**
 
