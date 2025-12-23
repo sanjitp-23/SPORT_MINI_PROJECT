@@ -1,6 +1,4 @@
-Here is the `README.md` content formatted exactly like your example, but tailored for your **SPORTS** project. You can copy and paste this directly into your GitHub.
 
-```markdown
 # 🛡️ SPORTS: Smart Platform for Opportunities, Recreation, Tournaments & Skills
 
 ## 📌 Project Overview
