@@ -135,13 +135,16 @@ The application will start locally and can be accessed via:
 * **Payment Gateway:** Integrated payments for entry fees and booking.
 
 ## Web App
-<img width="1219" height="860" alt="Screenshot 2025-12-22 005154" src="https://github.com/user-attachments/assets/97b42a7b-733a-44e1-8ccf-a0344ebdc7d6" />
-<img width="1208" height="865" alt="Screenshot 2025-12-22 005211" src="https://github.com/user-attachments/assets/75b891fc-eaba-40f6-9489-d12a9209a7ee" />
-<img width="1230" height="847" alt="Screenshot 2025-12-22 005226" src="https://github.com/user-attachments/assets/1ba4b9eb-da8a-4bfa-83d2-ca7b41573871" />
-<img width="1789" height="881" alt="Screenshot 2025-12-22 003748" src="https://github.com/user-attachments/assets/cf585bed-86a3-402f-bce5-a75c4e8f3416" />
-<img width="1780" height="903" alt="Screenshot 2025-12-22 003812" src="https://github.com/user-attachments/assets/75a96351-3a03-4ec0-9cf5-569158a3fb60" />
-<img width="1765" height="922" alt="Screenshot 2025-12-22 003836" src="https://github.com/user-attachments/assets/da9389bb-17e6-4d7c-8315-ba11a6c77c9c" />
-<img width="1770" height="897" alt="Screenshot 2025-12-22 003852" src="https://github.com/user-attachments/assets/14dcb91f-5aae-4699-8611-744998888f11" />
+<img width="1737" height="827" alt="image" src="https://github.com/user-attachments/assets/b42e4f2f-a0c2-48a6-b7a0-d80caf19d98d" />
+<img width="1726" height="840" alt="image" src="https://github.com/user-attachments/assets/0680fb48-f240-44db-bd7f-ef8bd583e591" />
+<img width="1729" height="822" alt="image" src="https://github.com/user-attachments/assets/4eb1c10a-8599-4e30-8b5d-ced9f0691269" />
+<img width="1751" height="836" alt="image" src="https://github.com/user-attachments/assets/62e4e1f4-b61f-493b-b022-6e5e5cbe9a85" />
+<img width="1747" height="851" alt="image" src="https://github.com/user-attachments/assets/22169a7b-1412-4abf-8015-00921f92b851" />
+<img width="1746" height="837" alt="image" src="https://github.com/user-attachments/assets/7a82d0b0-009e-4574-ab26-de324ef82b94" />
+<img width="1742" height="831" alt="image" src="https://github.com/user-attachments/assets/a0fecd8c-df3c-493e-b49a-8b82767d55be" />
+<img width="1749" height="839" alt="image" src="https://github.com/user-attachments/assets/ebd25dcb-a73d-4698-ba82-43b567fc0ced" />
+<img width="1771" height="839" alt="image" src="https://github.com/user-attachments/assets/990e9160-923e-4ede-a2fd-47b6f8cadbed" />
+
 
 
 ## 📄 License
